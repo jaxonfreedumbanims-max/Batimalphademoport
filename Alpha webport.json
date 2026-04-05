@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "OldCh1Ripped",
+"productVersion": "1.0",
+"dataUrl": "Alpha webport.data.unityweb",
+"wasmCodeUrl": "Alpha webport.wasm.code.unityweb",
+"wasmFrameworkUrl": "Alpha webport.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.17f1"
+}
